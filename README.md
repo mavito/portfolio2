@@ -21,4 +21,4 @@ Created a real-time dashboard using Dash
 
 ## Contact
 
-Reach out via email at (manastokale@gmail.com)[manastokale@gmail.com]
+Reach out via email at [manastokale@gmail.com](manastokale@gmail.com)
