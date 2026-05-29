@@ -7,6 +7,7 @@ const skills = [
     "CatBoost",
     "LightGBM",
     "RAG",
+    "Agent Evals",
     "Fine-Tuning",
     "LangGraph",
     "Google ADK",
@@ -76,6 +77,20 @@ const projects = [
         tags: ["RAG", "FastAPI", "ChromaDB", "Retrieval"],
         thumb: "forum",
         links: [{ label: "Live Demo", url: "https://lineage-sooty.vercel.app" }],
+    },
+    {
+        title: "ToolGen",
+        category: "Applied AI",
+        domain: "Agent Evaluation",
+        status: "SAP OA",
+        subtitle: "Synthetic multi-tool conversations for evaluating agentic LLMs",
+        about:
+            "ToolBench-style schemas to auditable agent traces.",
+        impact:
+            "8 tools, 21 endpoints, 90 graph edges, 100-sample offline validation.",
+        tags: ["Agent Evals", "Gemini", "ToolBench", "React"],
+        thumb: "memory",
+        links: [{ label: "GitHub", url: "https://github.com/manastokale/sap_multiagent_tool" }],
     },
     {
         title: "LocalPsych",
